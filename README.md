@@ -1,4 +1,4 @@
-# Prim-and-Kruskal-and-Dijkstry-and-Bellamond-Ford-Algorithms-on-graph
+# Prim-and-Kruskal-and-Dijkstry-and-Bellman-Ford-Algorithms-on-graph
 
 Projekt na uczelnie. Projekt realizowany na zajęcia z Struktur danych i złożonosci obliczeniowej.<br/>
 Badanie efektywności algorytmów grafowych w zależności od rozmiaru instancji oraz sposobu reprezentacji grafu w pamięci komputera.
