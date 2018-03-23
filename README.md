@@ -1,12 +1,11 @@
 # Prim-and-Kruskal-and-Dijkstry-and-Bellman-Ford-Algorithms-on-graph
 
-Projekt na uczelnie. Projekt realizowany na zajęcia z Struktur danych i złożonosci obliczeniowej.<br/>
-Badanie efektywności algorytmów grafowych w zależności od rozmiaru instancji oraz sposobu reprezentacji grafu w pamięci komputera.
+Project created for universities. Project implemented for classes from Data structures and computational complexity. Examination of the effectiveness of graph algorithms depending on the size of the instance and how the graph is represented in the computer's memory.
 <br/><br/>
-W programie zaimplementowane są 4 algorytmu:
-<br/>algorytm Kruskala
-<br/>algorytm Prima
-<br/>algorytm Dijkstry
-<br/>algorytm Bellamonda Forda
+The program has four algorithms implemented:
+<br/>Kruskal's algorithm
+<br/>Prim's algorithm 
+<br/>Dijkstra's algorithm
+<br/>Bellman-Ford algorithm
 <br/><br/>
-Program przyjmuje dane w pliku txt albo generuje dane testowe po wybraniu opcji test na początku programu.
+The program accepts data in a txt file or generates test data after selecting the test option at the beginning of the program.
